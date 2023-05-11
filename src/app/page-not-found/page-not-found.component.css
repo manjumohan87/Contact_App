@@ -1,0 +1,14 @@
+.err-404{
+    margin: 200px 0;
+    width: 100%;
+}
+.err-404 h1{
+    font-size: 200px;
+    font-weight: 700;
+    color: green;
+}
+.err-404 h1 span{
+    font-size: 250px;
+    line-height: 1;
+    color: red;
+}
